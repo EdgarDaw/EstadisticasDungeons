@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"estadisticasdungeons","l":"EstadisticasDungeons"},{"p":"estadisticasdungeons","l":"TiradaDadosCaracteristicas"}];updateSearchResults();
